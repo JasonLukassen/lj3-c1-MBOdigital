@@ -3,7 +3,7 @@ School project "MBO GO DIGITAL" en de bijbehorende bewijs stukken.
 
 ### `Bewijsstuk #1 | Eigen Omgeving`
 Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
-[Video Diego](https://youtu.be/iwy17styLSc)
+[Video Jason](https://youtu.be/iwy17styLSc)
 
 
 
