@@ -8,11 +8,11 @@ Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
 
 
 ### `Bewijsstuk #2 | Technisch Ontwerp`
-Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
+Bewijsstuk dat het figma design overeenkomt met de website.
 ![Screenshot (310)](https://github.com/user-attachments/assets/514d3fab-f8b4-4c3f-b0c8-827b230bc424)
 ![Screenshot (309)](https://github.com/user-attachments/assets/34070418-4fa8-4731-a69c-20097b7e9b4a)
 
 
 ### `Bewijsstuk #3 | Keuzendelen Gevuld Met Informatie`
-Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
-![image](https://github.com/user-attachments/assets/d1cda8ce-96e3-4c03-8a28-5b328e3c358e)![Uploading Screenshot (308).png…]()
+Bewijsstuk dat ik een database heb met alle keuzedelen.
+![Screenshot (311)](https://github.com/user-attachments/assets/d5a45085-d759-45cc-b17a-2f76b7355d4c)
