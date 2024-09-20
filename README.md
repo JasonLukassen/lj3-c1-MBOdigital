@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/90273b87-c43e-4071-8abf-9fb91513e529)MBO Go Digital
 School project "MBO GO DIGITAL" en de bijbehorende bewijs stukken.
 
 
