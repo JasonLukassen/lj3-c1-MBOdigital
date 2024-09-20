@@ -1,4 +1,4 @@
-MBO Go Digital
+![image](https://github.com/user-attachments/assets/90273b87-c43e-4071-8abf-9fb91513e529)MBO Go Digital
 School project "MBO GO DIGITAL" en de bijbehorende bewijs stukken.
 
 
@@ -10,9 +10,10 @@ Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
 
 ### `Bewijsstuk #2 | Technisch Ontwerp`
 Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
-![image](https://github.com/user-attachments/assets/0346269a-4c09-47b5-a477-2259bbd3c478)
-![Diego MBOGODIGITAL FIGMA](https://github.com/user-attachments/assets/c05167c6-61e7-4f88-bcab-0170c53444a7)
-
+figma Design:
+![Screenshot 2024-09-20 094405](https://github.com/user-attachments/assets/a90ca2ca-74af-4c98-9f7c-200082f0fd06)
+Website: 
+![Screenshot (309)](https://github.com/user-attachments/assets/34070418-4fa8-4731-a69c-20097b7e9b4a)
 
 
 ### `Bewijsstuk #3 | Keuzendelen Gevuld Met Informatie`
