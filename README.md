@@ -9,7 +9,7 @@ Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
 
 ### `Bewijsstuk #2 | Technisch Ontwerp`
 Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
-![Screenshot 2024-09-20 094405](https://github.com/user-attachments/assets/a90ca2ca-74af-4c98-9f7c-200082f0fd06)
+![Screenshot (310)](https://github.com/user-attachments/assets/514d3fab-f8b4-4c3f-b0c8-827b230bc424)
 ![Screenshot (309)](https://github.com/user-attachments/assets/34070418-4fa8-4731-a69c-20097b7e9b4a)
 
 
