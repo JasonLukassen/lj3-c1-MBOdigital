@@ -10,9 +10,7 @@ Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
 
 ### `Bewijsstuk #2 | Technisch Ontwerp`
 Bewijsstuk dat ik MBOGODIGITAL heb op mijn eigen omgeving.
-figma Design:
 ![Screenshot 2024-09-20 094405](https://github.com/user-attachments/assets/a90ca2ca-74af-4c98-9f7c-200082f0fd06)
-Website: 
 ![Screenshot (309)](https://github.com/user-attachments/assets/34070418-4fa8-4731-a69c-20097b7e9b4a)
 
 
