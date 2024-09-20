@@ -37,5 +37,13 @@
                 Opleidingen
             </a>
         </li>
-
+        <li>
+            <a href="/admin/keuzedelen/overview"
+                class="inline-flex items-center px-4 py-2 rounded-lg hover:text-gray-50 bg-stone-700 hover:bg-stone-300 w-full">
+                <svg class="w-4 h-4 me-2 text-gray-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M4 3h13a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm1 2v12h12V5H5zm7 2h4v1h-4V7zm0 3h4v1h-4v-1z"/>
+                </svg>
+                Keuzedelen
+            </a>
+        </li>
     </ul>

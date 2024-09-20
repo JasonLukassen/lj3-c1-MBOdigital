@@ -33,7 +33,7 @@
                     onclick="openTab(event, 'tab5')">Ondernemend gedrag</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
-                    onclick="openTab(event, 'tab6')">oriëntatie</button>
+                    onclick="openTab(event, 'tab6')">oriëntatie op ondernemerschap</button>
                 <button
                     class="w-1/2 py-4 text-center font-medium text-gray-700 bg-gray-100 rounded-tr-lg focus:outline-none active:bg-gray-200"
                     onclick="openTab(event, 'tab7')">Verdieping software</button>
